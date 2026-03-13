@@ -49,13 +49,5 @@ O projeto envolve:
 
 ---
 
-## ⚙️ Interesses
-
-🤖 Robótica  
-🎮 Desenvolvimento de jogos  
-⚡ Automação  
-
----
-
 ⚡ **Curiosidade:**  
 Meu interesse por tecnologia começou aos **6 anos jogando videogame**, e desde então fiquei curioso para entender **como tudo funciona por trás da tela**.
