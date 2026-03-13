@@ -54,7 +54,6 @@ O projeto envolve:
 🤖 Robótica  
 🎮 Desenvolvimento de jogos  
 ⚡ Automação  
-🧠 Sistemas inteligentes
 
 ---
 
