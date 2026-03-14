@@ -28,7 +28,7 @@
 ## 🧠 Atualmente aprendendo
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,cs,java,html,css,vscode,visualstudio,arduino,git" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,cs,c,java,html,css,vscode,visualstudio,arduino,git" />
 </p>
 
 ---
