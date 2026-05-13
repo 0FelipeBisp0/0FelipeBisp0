@@ -51,3 +51,13 @@ O projeto envolve:
 
 ⚡ **Curiosidade:**  
 Meu interesse por tecnologia começou aos **6 anos jogando videogame**, e desde então fiquei curioso para entender **como tudo funciona por trás da tela**.
+###
+<div>
+  <img 
+    width="100%"
+    height="100"
+    src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"
+  />
+</div>
+
+###
