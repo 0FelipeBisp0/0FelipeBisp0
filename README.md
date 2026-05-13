@@ -4,10 +4,24 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/0FelipeBisp0/0FelipeBisp0/output/pacman-contribution-graph.svg">
 </picture>
 
-<h1 align="center">👋 Olá, eu sou o Felipe</h1> <p align="center">
-  <a href="https://instagram.com/f3lipebispoo">
-    <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
+<h1 align="center">👋 Olá, eu sou o Felipe</h1>
+
+<p align="center">
+  <a href="https://instagram.com/f3lipebispoo" target="_blank">
+    <img 
+      src="https://skillicons.dev/icons?i=instagram" 
+      height="40"
+      alt="Instagram"
+    />
   </a>
+</p>
+
+<p align="center">
+  <img 
+    src="https://img1.picmix.com/output/stamp/normal/9/2/7/3/2813729_b26b9.gif"
+    height="200"
+    alt="GIF animado"
+  />
 </p>
 
 💻 Estudante de Engenharia da Computação <br>
